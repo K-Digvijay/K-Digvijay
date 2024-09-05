@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digvijay</h1>
 <h3 align="center">A passionate Data Scientist, Data Engineer, Machine Learning Engineer</h3>
 
-<img align ="right" alt ="Coding" width = "400" src="https://facultystaff.richmond.edu/~tmattson/INFO303/images/logisticregressionanimatedgif.gif">
+<img align ="right" alt ="Coding" width = "400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-digvijay&label=Profile%20views&color=0e75b6&style=flat" alt="k-digvijay" /> </p>
