@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digvijay</h1>
 <h3 align="center">A passionate Data Scientist, Data Engineer, Machine Learning Engineer</h3>
 
-<img align ="right" alt ="Coding" width = "400" src="https://www.mathwarehouse.com/programming/images/while_loop/top-5-programming-animated-gifs_demonstration-of-while-loop-animation_logo.gif">
+<img align ="right" alt ="Coding" width = "400" src="https://giffiles.alphacoders.com/296/2966.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-digvijay&label=Profile%20views&color=0e75b6&style=flat" alt="k-digvijay" /> </p>
