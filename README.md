@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-digvijay&label=Profile%20views&color=0e75b6&style=flat" alt="k-digvijay" /> </p>
 
-- 🔭 I’m currently working on **Soon**
+- 🔭 I’m currently working on  **Soon will be update**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
