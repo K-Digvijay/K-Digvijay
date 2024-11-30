@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Digvijay</h1>
-<h3 align="center">A passionate Data Scientist, Data Engineer, Machine Learning Engineer</h3>
+<h3 align="center">A passionate Data Scientist, Machine Learning Engineer, Data Analyst</h3>
 
 <img align ="right" alt ="Coding" width = "400" src="https://giffiles.alphacoders.com/296/2966.gif">
 
