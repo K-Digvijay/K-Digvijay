@@ -1,29 +1,76 @@
 <h1 align="center">Hi 👋, I'm Digvijay</h1>
-<h3 align="center">A passionate Data Scientist, Machine Learning Engineer, Data Analyst</h3>
+<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | AI Engineer</h3>
 
-<img align ="right" alt ="Coding" width = "400" src="https://giffiles.alphacoders.com/296/2966.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-digvijay&label=Profile%20views&color=0e75b6&style=flat" alt="k-digvijay" /> </p>
-
-- 🔭 I’m currently working on  **Creating DashBoard**
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 🤝 I’m looking for help with **ML models and Optimization**
-
-- 📫 How to reach me **digvijay.kewale@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/digvijaykewale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/digvijaykewale/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Passionate+about+ML+%26+Data+Science;Building+Intelligent+Dashboards;Exploring+AI+in+Real+World+Scenarios" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-digvijay&show_icons=true&locale=en&layout=compact" alt="k-digvijay" /></p>
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/296/2966.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-digvijay&show_icons=true&locale=en" alt="k-digvijay" /></p>
+- 🔭 Currently working on: **Interactive Dashboards and ML Projects**
+- 🌱 Learning: **Deep Learning, LLMs, and MLOps**
+- 🤝 Looking for collaborations in: **AI/ML + DS use cases**
+- 📫 Reach me at: **digvijay.kewale@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-digvijay&" alt="k-digvijay" /></p>
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/digvijaykewale/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
+
+**Libraries & Tools**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-9A1E2F?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+
+---
+
+### 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K-Digvijay&theme=flat&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Digvijay&theme=default" width="700" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Digvijay&theme=default&utcOffset=5.5" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-Digvijay&theme=default" width="400" />
+</div>
+
+---
+
+### 🔥 Activity & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Digvijay&show_icons=true&theme=default" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Digvijay&theme=default" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Digvijay&layout=compact&theme=default" width="350" />
+</p>
